@@ -1,0 +1,31 @@
+{
+  "name": "SPA-hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumingying/SPA-hw3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liumingying/SPA-hw3/issues"
+  },
+  "homepage": "https://github.com/liumingying/SPA-hw3#readme",
+  "dependencies": {
+    "echarts": "^4.7.0",
+    "handsontable": "^7.4.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
