@@ -19,7 +19,7 @@
   "homepage": "https://github.com/liumingying/SPA-hw3#readme",
   "dependencies": {
     "echarts": "^4.7.0",
-    "handsontable": "^7.4.2"
+    "handsontable": "^10.0.0"
   },
   "devDependencies": {
     "grunt": "^1.1.0",
